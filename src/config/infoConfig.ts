@@ -11,7 +11,7 @@ export const email = 'riverren@stu.pku.edu.cn'
 export const githubUsername = 'RiverRen'
 
 // about page
-export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
+export const aboutMeHeadline = 'Who am I and Why Should You Care?'
 export const aboutParagraphs = [
   "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
   'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
@@ -19,9 +19,9 @@ export const aboutParagraphs = [
 ]
 
 // blog
-export const blogHeadLine = "What I've thinking about."
+export const blogHeadLine = "What I've been thinking about."
 export const blogIntro =
-  "I've written something about AI, programming and life."
+  "I've written something about evolution of psychological mechanisms and life and everything in the universe."
 
 // social links
 export type SocialLinkType = {
@@ -40,7 +40,7 @@ export const socialLinks: Array<SocialLinkType> = [
   {
     name: 'Bilibili',
     icon: 'bilibili',
-    href: 'https://space.bilibili.com/349721082',
+    href: 'https://space.bilibili.com/43896513',
   },
 ]
 

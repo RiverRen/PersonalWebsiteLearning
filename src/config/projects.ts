@@ -20,16 +20,16 @@ export const awardsIntro = "Recognition for academic and professional achievemen
 
 export const awards: Array<ActivityItemType> = [
   {
-    name: 'Outstanding Teacher Award',
+    name: 'I-Got-A-Lot-Of-Cheese Award',
     description: '',
     date: '2024',
-    location: 'SCLS, Shanghai',
+    location: 'Haidian District, Beijing',
   },
   {
-    name: 'Zhui Ying Award',
+    name: 'I-Can-Really-Sleep-A-Lot Award',
     description: '',
     date: '2023',
-    location: 'Qingpu, Shanghai',
+    location: 'Jizhou District, Tianjin',
   },
 ]
 
